@@ -1,4 +1,4 @@
-# diabetes-risk-prediction
+# Diabetes-risk-prediction
 
 Diabetes is one of the fastest growing chronic life threatening diseases that have already affected 422 million people worldwide according to the report of World Health Organization (WHO), 
 in 2018.

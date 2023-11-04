@@ -34,7 +34,7 @@ The trained Random Forest model was pickled and saved to `model.pkl` to persist 
 
 ## Web Application
 A web application was built using Streamlit to allow real-time predictions using the saved Random Forest model. 
-Users can input values for the features and receive a prediction on diabetes likelihood. The application is deployed at [source](https://doi.org/10.1007/978-981-13-8798-2_12).
+Users can input values for the features and receive a prediction on diabetes likelihood. The application is deployed at [check it out](https://diabetes-risk-prediction.streamlit.app/).
 
 ## Repository Contents
 - Data pre-processing, Model training and evaluation notebook
